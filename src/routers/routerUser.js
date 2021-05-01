@@ -21,6 +21,4 @@ routerUser.post('/change-password',user.changePassword);
 routerUser.post('/change-profile',user.changeProfile);
 
 
-
-
 module.exports = routerUser;
