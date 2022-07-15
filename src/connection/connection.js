@@ -5,7 +5,9 @@ let mongoose = require('mongoose');
 // mongodb+srv://admin:admin@cluster0.w0h8u.mongodb.net/test?retryWrites=true&w=majority
 // let URL = "mongodb+srv://severadmin:admin@cluster0.jo73i.mongodb.net/test?retryWrites=true&w=majority";
 
-let URL = "mongodb+srv://severadmin:admin@cluster0.jo73i.mongodb.net/test?retryWrites=true&w=majority";
+//let URL = "mongodb+srv://severadmin:admin@cluster0.jo73i.mongodb.net/test?retryWrites=true&w=majority";
+let URL = "mongodb+srv://Tu123456:Tuan123456@cluster0.ezh7x.mongodb.net/test?retryWrites=true&w=majority";
+
 
 mongoose.set('useFindAndModify', false);
 
